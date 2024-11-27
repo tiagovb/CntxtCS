@@ -5,11 +5,11 @@
 
 > 🤯 **75% Token Reduction In Context Window Usage!** 
 
-## Why CntxtJV?
+## Why CntxtCS?
 
--  Dramatically improves LLM navigation of Java codebases
+-  Dramatically improves LLM navigation of C# codebases
 -  Enhances AI comprehension of code structure and relationships  
--  Extracts classes, methods, packages and dependencies concisely
+-  Extracts classes, methods, namespaces and dependencies concisely
 -  Generates optimized knowledge graphs for LLM context
 -  Maximizes context window efficiency with relevant code data
 
