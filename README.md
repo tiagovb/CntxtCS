@@ -7,11 +7,13 @@
 
 ## Why CntxtCS?
 
--  Dramatically improves LLM navigation of C# codebases
--  Enhances AI comprehension of code structure and relationships  
--  Extracts classes, methods, namespaces and dependencies concisely
--  Generates optimized knowledge graphs for LLM context
--  Maximizes context window efficiency with relevant code data
+-  Boosts precision: Maps relationships and dependencies for clear analysis.
+-  Eliminates noise: Focuses LLMs on key code insights.
+-  Supports analysis: Reveals architecture for smarter LLM insights.
+-  Speeds solutions: Helps LLMs trace workflows and logic faster.
+-  Improves recommendations: Gives LLMs detailed metadata for better suggestions.
+-  Optimized prompts: Provides structured context for better LLM responses.
+-  Streamlines collaboration: Helps LLMs explain and document code easily.
 
 Supercharge your LLM's understanding of your C# codebases. CntxtCS generates comprehensive knowledge graphs that help LLMs navigate and comprehend your code structure with ease.
 
