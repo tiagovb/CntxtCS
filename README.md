@@ -43,11 +43,8 @@ git clone https://github.com/brandondocusen/CntxtCS.git
 # Navigate to the directory
 cd CntxtCS
 
-# Install required packages
-dotnet tool install --global CntxtCS
-
-# Run the analyzer
-cntxtcs analyze
+# Run the Python file
+python CntxtCS.py
 ```
 
 When prompted, enter the path to your C# solution or project file. The tool will generate a `csharp_code_knowledge_graph.json` file and offer to visualize the relationships.
