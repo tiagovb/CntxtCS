@@ -5,13 +5,13 @@
 
 > 🤯 **75% Token Reduction In Context Window Usage!** 
 
-Why CntxtCS.py:
+## Why CntxtJV?
 
-Improves LLM's ability to navigate and comprehend C# projects.
-Enhances LLM understanding of code structure and relationships.
-Extracts classes, methods, namespaces, and dependencies concisely.
-Generates a JSON knowledge graph of C# codebases for LLM context.
-Optimizes context windows with relevant code information.
+-  Dramatically improves LLM navigation of Java codebases
+-  Enhances AI comprehension of code structure and relationships  
+-  Extracts classes, methods, packages and dependencies concisely
+-  Generates optimized knowledge graphs for LLM context
+-  Maximizes context window efficiency with relevant code data
 
 Supercharge your LLM's understanding of your C# codebases. CntxtCS generates comprehensive knowledge graphs that help LLMs navigate and comprehend your code structure with ease.
 
