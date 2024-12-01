@@ -688,7 +688,7 @@ class CSCodeKnowledgeGraph:
             "class_methods": self._convert_sets_to_lists(self.class_methods),
         }
 
-        data = json_graph.node_link_data(self.graph, edges="links")
+        data = json_graph.node_link_data(self.graph)
 
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump({"graph": data, "metadata": metadata}, f, indent=2)
