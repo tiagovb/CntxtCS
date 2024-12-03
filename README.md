@@ -116,6 +116,7 @@ Just fork, make your changes, and submit a PR. Check out our [contribution guide
 - [ ] Interactive web-based visualizations
 - [ ] Custom graph export formats
 - [ ] Integration with Visual Studio and Rider
+- [ ] Support for file-scoped namespaces and global using statements
 
 ## 📝 License
 
